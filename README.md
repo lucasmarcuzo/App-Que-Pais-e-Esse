@@ -5,7 +5,7 @@
 <img  width="302"  height="540"  src="Presentation/quizApp.gif">
 </p>
 
-[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=for-the-badge&logo=android&link=https://github.com/lucasmarcuzo/App-Que-Pais-e-Este/raw/main/QuizPaises/apk/debug/app-debug.apk)](https://github.com/lucasmarcuzo/App-Que-Pais-e-Este/raw/main/QuizPaises/apk/debug/app-debug.apk) 
+[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=flat&logo=android&link=https://github.com/lucasmarcuzo/App-Que-Pais-e-Este/raw/main/QuizPaises/apk/debug/app-debug.apk)](https://github.com/lucasmarcuzo/App-Que-Pais-e-Este/raw/main/QuizPaises/apk/debug/app-debug.apk) 
 
 ## 🛠 Tecnologias utilizadas:
 
@@ -36,7 +36,7 @@
 
 ## 📃Licença:
 
-![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-DIO-APP-Lembrete-Tarefas)
+![MIT License](https://img.shields.io/github/license/lucasmarcuzo/App-Que-Pais-e-Este)
 
 <div align="right"> <h3> - Obrigado pela visita! ✌🏻 </h3> </div> 
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/quePaisEEste?"> </h3>
