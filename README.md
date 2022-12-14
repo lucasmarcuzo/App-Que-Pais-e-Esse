@@ -1,8 +1,17 @@
-<h1>🛠️ APP - Que País é este? 📲</h1>
+<h1>📲 Criando um quiz: Que País é Este? 🤔 </h1>
 
-<H2> 👨🏻‍💻 Criando um quiz: que país é este?</h2>
+<p align="center">
+<a href="https://github.com/lucasmarcuzo/App-Que-Pais-e-Este/">
+<img  width="302"  height="540"  src="Presentation/quizApp.gif">
+</p>
 
-[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=for-the-badge&logo=android&link=https://github.com/lucasmarcuzo/Projeto-DIO-APP-Lembrete-Tarefas/raw/main/APK/app-release.apk)](https://github.com/lucasmarcuzo/Projeto-DIO-APP-Lembrete-Tarefas/raw/main/APK/app-release.apk) 
+[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=for-the-badge&logo=android&link=https://github.com/lucasmarcuzo/App-Que-Pais-e-Este/raw/main/QuizPaises/apk/debug/app-debug.apk)](https://github.com/lucasmarcuzo/App-Que-Pais-e-Este/raw/main/QuizPaises/apk/debug/app-debug.apk) 
+
+## 🛠 Tecnologias utilizadas:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
 
 ## 📱 Contato:
 
@@ -30,6 +39,6 @@
 ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-DIO-APP-Lembrete-Tarefas)
 
 <div align="right"> <h3> - Obrigado pela visita! ✌🏻 </h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/quePaisEEste"> </h3>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/quePaisEEste?"> </h3>
 
 
