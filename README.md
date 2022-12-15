@@ -1,4 +1,4 @@
-<h1>📲 Criando um quiz: Que País é Este? 🤔 </h1>
+<h1>📲 Criando um quiz: Que País é Esse? 🤔 </h1>
 
 <p align="center">
 <a href="https://github.com/lucasmarcuzo/App-Que-Pais-e-Este/">
@@ -36,9 +36,9 @@
 
 ## 📃Licença:
 
-![MIT License](https://img.shields.io/github/license/lucasmarcuzo/App-Que-Pais-e-Este)
+![MIT License](https://img.shields.io/github/license/lucasmarcuzo/App-Que-Pais-e-Esse)
 
 <div align="right"> <h3> - Obrigado pela visita! ✌🏻 </h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/quePaisEEste?"> </h3>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/quePaisEEsse"> </h3>
 
 
